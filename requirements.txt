@@ -1,0 +1,21 @@
+# Core UI
+gradio>=4.25.0
+
+# LangChain (new runnable-based APIs)
+langchain>=1.2.0
+langchain-core>=1.2.0
+langchain-community>=0.3.0
+
+# Embeddings & Vector DB
+sentence-transformers>=2.6.0
+faiss-cpu>=1.8.0
+
+# Hugging Face (offline LLM)
+transformers>=4.41.0
+torch>=2.2.0
+
+# Document processing
+docx2txt>=0.8
+
+# Utilities
+numpy<2.0
